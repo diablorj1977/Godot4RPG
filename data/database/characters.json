@@ -1,0 +1,153 @@
+[
+  {
+    "id": "kael",
+    "name": "Kael Orion",
+    "role": "Fencer",
+    "level": 5,
+    "xp": 0,
+    "hp": 320,
+    "hp_max": 320,
+    "mp": 56,
+    "mp_max": 56,
+    "atk": 48,
+    "def": 34,
+    "agi": 32,
+    "tech": 18,
+    "acc": 92,
+    "elements": {
+      "wind": 0.5,
+      "fire": 1.0,
+      "ice": 1.1
+    },
+    "growth": {
+      "hp": 24,
+      "mp": 4,
+      "atk": 6,
+      "def": 4,
+      "agi": 3,
+      "tech": 2,
+      "acc": 1
+    },
+    "skills": [
+      {
+        "id": "sonic_slash",
+        "level": 1
+      },
+      {
+        "id": "tempest_cleave",
+        "level": 8
+      },
+      {
+        "id": "aero_storm",
+        "level": 12
+      }
+    ],
+    "default_equipment": {
+      "weapon": "starlight_blade",
+      "armor": "sentinel_plate",
+      "accessory": "wind_charm"
+    }
+  },
+  {
+    "id": "mira",
+    "name": "Mira Solenne",
+    "role": "Arcanist",
+    "level": 5,
+    "xp": 0,
+    "hp": 240,
+    "hp_max": 240,
+    "mp": 120,
+    "mp_max": 120,
+    "atk": 28,
+    "def": 30,
+    "agi": 30,
+    "tech": 52,
+    "acc": 88,
+    "elements": {
+      "fire": 0.6,
+      "ice": 0.8,
+      "wind": 1.0
+    },
+    "growth": {
+      "hp": 18,
+      "mp": 10,
+      "atk": 3,
+      "def": 3,
+      "agi": 3,
+      "tech": 6,
+      "acc": 1
+    },
+    "skills": [
+      {
+        "id": "flare_pulse",
+        "level": 1
+      },
+      {
+        "id": "phoenix_wave",
+        "level": 10
+      },
+      {
+        "id": "solstice_burst",
+        "level": 14
+      },
+      {
+        "id": "nova_recovery",
+        "level": 16
+      }
+    ],
+    "default_equipment": {
+      "weapon": "meteor_edge",
+      "armor": "aurora_mail",
+      "accessory": "ember_ring"
+    }
+  },
+  {
+    "id": "rex",
+    "name": "Rex-7X",
+    "role": "Defender",
+    "level": 5,
+    "xp": 0,
+    "hp": 380,
+    "hp_max": 380,
+    "mp": 40,
+    "mp_max": 40,
+    "atk": 42,
+    "def": 52,
+    "agi": 22,
+    "tech": 24,
+    "acc": 96,
+    "elements": {
+      "electric": 0.5,
+      "ice": 0.9,
+      "dark": 1.1
+    },
+    "growth": {
+      "hp": 28,
+      "mp": 3,
+      "atk": 5,
+      "def": 7,
+      "agi": 2,
+      "tech": 3,
+      "acc": 1
+    },
+    "skills": [
+      {
+        "id": "ion_burst",
+        "level": 1
+      },
+      {
+        "id": "barrier_field",
+        "level": 9
+      },
+      {
+        "id": "laser_rain",
+        "level": 13
+      }
+    ],
+    "default_equipment": {
+      "weapon": "ether_lance",
+      "armor": "zephyr_jacket",
+      "accessory": "guardian_anklet"
+    }
+  }
+]

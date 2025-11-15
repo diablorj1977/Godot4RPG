@@ -31,6 +31,12 @@ Configurados em `project.godot`:
 - Contém JSONs internos (`items.json`, `enemies.json`, `maps_config.json`, etc.) e listas de recursos (`gfx_assets`, `audio_assets`).
 - `DatabaseLoader` lê e disponibiliza os dicionários para os demais sistemas.
 
+### Fonte de dados em JSON
+- Os arquivos legíveis que alimentam o banco ficam em `data/database/`.
+- Cada JSON corresponde a uma seção carregada em tempo de execução: `equipment.json`, `armors.json`, `accessories.json`, `consumables.json`, `mission_items.json`, `items.json`, `characters.json`, `enemies.json`, `npcs.json`, `shops.json`, `quests_main.json`, `quests_side.json` e `maps_config.json`.
+- As conversões para o formato binário devem seguir a mesma estrutura (arrays de dicionários com o campo `id`).
+- Novos capítulos podem gerar variantes como `database_capitulo2.dl` a partir da mesma pasta, bastando aplicar o compressor/criptografia definidos em `DatabaseLoader`.
+
 ## Fluxo de Carregamento
 1. `GameState` inicia e chama `DatabaseLoader` para ler `database.dl`.
 2. Ao carregar com sucesso, o sinal `database_loaded` dispara e alimenta os demais singletons.

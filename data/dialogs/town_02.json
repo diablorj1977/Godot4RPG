@@ -1,0 +1,16 @@
+{
+  "npc_mechanic_rho": {
+    "name": "Mechanic Rho",
+    "lines": [
+      "Peças de nave? Tenho componentes até para uma estação orbital.",
+      "Só não pergunte de onde vieram."
+    ]
+  },
+  "npc_priestess_lyra": {
+    "name": "Priestess Lyra",
+    "lines": [
+      "A luz de Eona protege os viajantes.",
+      "Medite na praça para recuperar suas forças."
+    ]
+  }
+}

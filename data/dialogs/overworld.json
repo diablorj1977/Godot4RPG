@@ -1,16 +1,16 @@
 {
-  "npc_001": {
-    "name": "Explorador",
+  "npc_scout_vix": {
+    "name": "Scout Vix",
     "lines": [
-      "As dunas mudam todos os dias.",
-      "Use o vento a seu favor."
+      "O vento hoje sopra do norte.",
+      "Se sentir o ar vibrar, prepare-se para combate."
     ]
   },
-  "npc_002": {
-    "name": "Guia",
+  "npc_pilot_han": {
+    "name": "Pilot Han",
     "lines": [
-      "A capital fica a leste.",
-      "Cuide dos seus recursos."
+      "Minha nave está escondida além da próxima crista.",
+      "Traga os módulos certos e podemos voar juntos."
     ]
   }
 }

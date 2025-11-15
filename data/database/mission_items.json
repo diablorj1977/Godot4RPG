@@ -1,0 +1,202 @@
+[
+  {
+    "id": "tri_core_relay",
+    "name": "Tri Core Relay",
+    "type": "mission",
+    "description": "Item de missão 1 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "ancient_tablet",
+    "name": "Ancient Tablet",
+    "type": "mission",
+    "description": "Item de missão 2 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "stellar_compass",
+    "name": "Stellar Compass",
+    "type": "mission",
+    "description": "Item de missão 3 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "village_manifest",
+    "name": "Village Manifest",
+    "type": "mission",
+    "description": "Item de missão 4 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "dungeon_keystone",
+    "name": "Dungeon Keystone",
+    "type": "mission",
+    "description": "Item de missão 5 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "lost_data_cube",
+    "name": "Lost Data Cube",
+    "type": "mission",
+    "description": "Item de missão 6 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "prototype_drive",
+    "name": "Prototype Drive",
+    "type": "mission",
+    "description": "Item de missão 7 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "meteorite_sample",
+    "name": "Meteorite Sample",
+    "type": "mission",
+    "description": "Item de missão 8 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "healing_herb_bundle",
+    "name": "Healing Herb Bundle",
+    "type": "mission",
+    "description": "Item de missão 9 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "wind_crystal",
+    "name": "Wind Crystal",
+    "type": "mission",
+    "description": "Item de missão 10 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "ember_core",
+    "name": "Ember Core",
+    "type": "mission",
+    "description": "Item de missão 11 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "techno_script",
+    "name": "Techno Script",
+    "type": "mission",
+    "description": "Item de missão 12 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "spirit_charm",
+    "name": "Spirit Charm",
+    "type": "mission",
+    "description": "Item de missão 13 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "hydro_cell",
+    "name": "Hydro Cell",
+    "type": "mission",
+    "description": "Item de missão 14 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "lunar_totem",
+    "name": "Lunar Totem",
+    "type": "mission",
+    "description": "Item de missão 15 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "guardian_seal",
+    "name": "Guardian Seal",
+    "type": "mission",
+    "description": "Item de missão 16 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "sensor_array",
+    "name": "Sensor Array",
+    "type": "mission",
+    "description": "Item de missão 17 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "alliance_crest",
+    "name": "Alliance Crest",
+    "type": "mission",
+    "description": "Item de missão 18 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "cipher_fragment",
+    "name": "Cipher Fragment",
+    "type": "mission",
+    "description": "Item de missão 19 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "astral_keycard",
+    "name": "Astral Keycard",
+    "type": "mission",
+    "description": "Item de missão 20 essencial para progressão.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "credits",
+    "name": "Créditos",
+    "type": "currency",
+    "description": "Moeda padrão da Federação de Aetherion.",
+    "stats_mod": {},
+    "price": 0,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  },
+  {
+    "id": "data_chip",
+    "name": "Data Chip",
+    "type": "material",
+    "description": "Chip reutilizável contendo dados técnicos.",
+    "stats_mod": {},
+    "price": 25,
+    "usable_in_battle": false,
+    "usable_in_field": false
+  }
+]

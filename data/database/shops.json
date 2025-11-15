@@ -1,0 +1,86 @@
+[
+  {
+    "id": "shop_town_general",
+    "name": "Bazaar Aurora",
+    "location": "town_01",
+    "inventory": {
+      "consumable": [
+        "monomate",
+        "dimate",
+        "sol_atomizer",
+        "panacea_patch"
+      ],
+      "weapon": [
+        "starlight_blade",
+        "wind_dancer"
+      ],
+      "armor": [
+        "sentinel_plate",
+        "zephyr_jacket"
+      ]
+    }
+  },
+  {
+    "id": "shop_town_tech",
+    "name": "Circuito Prisma",
+    "location": "town_02",
+    "inventory": {
+      "consumable": [
+        "focus_ampule",
+        "ether_capsule",
+        "stardust_vial"
+      ],
+      "weapon": [
+        "nova_katana",
+        "galeforce_rapier",
+        "plasma_whip"
+      ],
+      "accessory": [
+        "psionic_focus",
+        "chrono_charm"
+      ]
+    }
+  },
+  {
+    "id": "shop_village_apothecary",
+    "name": "Herbário Viri",
+    "location": "village_02",
+    "inventory": {
+      "consumable": [
+        "vital_serum",
+        "lucid_draught",
+        "guardian_tonic",
+        "astro_cookie"
+      ],
+      "mission": [
+        "healing_herb_bundle"
+      ]
+    }
+  },
+  {
+    "id": "shop_station_elite",
+    "name": "Arsenal Zenith",
+    "location": "space_station_01",
+    "inventory": {
+      "weapon": [
+        "gravity_claymore",
+        "nebula_scythe",
+        "galaxy_greatsword"
+      ],
+      "armor": [
+        "nova_plate",
+        "nebula_armor",
+        "phoenix_plate"
+      ],
+      "accessory": [
+        "galactic_badge",
+        "dawn_band"
+      ],
+      "consumable": [
+        "hyper_gel",
+        "zenith_elixir",
+        "resurrect_module"
+      ]
+    }
+  }
+]

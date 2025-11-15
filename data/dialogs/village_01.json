@@ -1,0 +1,16 @@
+{
+  "npc_villager_arin": {
+    "name": "Arin",
+    "lines": [
+      "Os ventos mudaram desde que a nave caiu.",
+      "Traga notícias da capital quando puder."
+    ]
+  },
+  "npc_villager_cora": {
+    "name": "Cora",
+    "lines": [
+      "Tenho sementes raras para trocar por itens de cura.",
+      "O deserto não perdoa os despreparados."
+    ]
+  }
+}

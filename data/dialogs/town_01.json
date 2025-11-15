@@ -1,9 +1,23 @@
 {
-  "npc_010": {
-    "name": "Mercador",
+  "npc_town_elder": {
+    "name": "Elder Mareth",
     "lines": [
-      "Temos as melhores lâminas.",
-      "Créditos aceitos."
+      "Kael, o destino chama no Templo da Aurora.",
+      "Traga a Chave Astral antes que as sombras despertem."
+    ]
+  },
+  "npc_market_vendor": {
+    "name": "Sera",
+    "lines": [
+      "Frutas secas e lâminas brilhantes, escolha o que precisar.",
+      "Créditos e sorrisos sempre abrem portas."
+    ]
+  },
+  "npc_guild_agent": {
+    "name": "Lio",
+    "lines": [
+      "A guilda rastreia cada missão registrada.",
+      "Complete a etapa principal e liberaremos novos contratos."
     ]
   }
 }

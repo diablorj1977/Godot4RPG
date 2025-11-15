@@ -1,0 +1,542 @@
+[
+  {
+    "id": "starlight_blade",
+    "name": "Starlight Blade",
+    "type": "weapon",
+    "description": "Arma refinada de nível 1 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 10,
+      "agi": 1
+    },
+    "price": 160,
+    "element": "fire",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "meteor_edge",
+    "name": "Meteor Edge",
+    "type": "weapon",
+    "description": "Arma refinada de nível 2 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 12,
+      "agi": 1
+    },
+    "price": 200,
+    "element": "ice",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "nova_katana",
+    "name": "Nova Katana",
+    "type": "weapon",
+    "description": "Arma refinada de nível 3 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 14,
+      "agi": 1
+    },
+    "price": 240,
+    "element": "wind",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "ether_lance",
+    "name": "Ether Lance",
+    "type": "weapon",
+    "description": "Arma refinada de nível 4 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 16,
+      "agi": 1
+    },
+    "price": 280,
+    "element": "fire",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "celestial_saber",
+    "name": "Celestial Saber",
+    "type": "weapon",
+    "description": "Arma refinada de nível 5 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 18,
+      "agi": 2
+    },
+    "price": 320,
+    "element": "ice",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "wind_dancer",
+    "name": "Wind Dancer",
+    "type": "weapon",
+    "description": "Arma refinada de nível 6 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 20,
+      "agi": 2
+    },
+    "price": 360,
+    "element": "wind",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "storm_breaker",
+    "name": "Storm Breaker",
+    "type": "weapon",
+    "description": "Arma refinada de nível 7 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 22,
+      "agi": 2
+    },
+    "price": 400,
+    "element": "fire",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "galeforce_rapier",
+    "name": "Galeforce Rapier",
+    "type": "weapon",
+    "description": "Arma refinada de nível 8 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 24,
+      "agi": 2
+    },
+    "price": 440,
+    "element": "ice",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "luminous_glaive",
+    "name": "Luminous Glaive",
+    "type": "weapon",
+    "description": "Arma refinada de nível 9 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 26,
+      "agi": 2
+    },
+    "price": 480,
+    "element": "wind",
+    "rarity": "common",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "astral_falchion",
+    "name": "Astral Falchion",
+    "type": "weapon",
+    "description": "Arma refinada de nível 10 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 28,
+      "agi": 3
+    },
+    "price": 520,
+    "element": "fire",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "solstice_blade",
+    "name": "Solstice Blade",
+    "type": "weapon",
+    "description": "Arma refinada de nível 11 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 30,
+      "agi": 3
+    },
+    "price": 560,
+    "element": "ice",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "moonshadow_dirk",
+    "name": "Moonshadow Dirk",
+    "type": "weapon",
+    "description": "Arma refinada de nível 12 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 32,
+      "agi": 3
+    },
+    "price": 600,
+    "element": "wind",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "aurora_edge",
+    "name": "Aurora Edge",
+    "type": "weapon",
+    "description": "Arma refinada de nível 13 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 34,
+      "agi": 3
+    },
+    "price": 640,
+    "element": "fire",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "gravity_claymore",
+    "name": "Gravity Claymore",
+    "type": "weapon",
+    "description": "Arma refinada de nível 14 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 36,
+      "agi": 3
+    },
+    "price": 680,
+    "element": "ice",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "nebula_scythe",
+    "name": "Nebula Scythe",
+    "type": "weapon",
+    "description": "Arma refinada de nível 15 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 38,
+      "agi": 4
+    },
+    "price": 720,
+    "element": "wind",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "comet_spear",
+    "name": "Comet Spear",
+    "type": "weapon",
+    "description": "Arma refinada de nível 16 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 40,
+      "agi": 4
+    },
+    "price": 760,
+    "element": "fire",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "prism_saber",
+    "name": "Prism Saber",
+    "type": "weapon",
+    "description": "Arma refinada de nível 17 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 42,
+      "agi": 4
+    },
+    "price": 800,
+    "element": "ice",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "silversong_blade",
+    "name": "Silversong Blade",
+    "type": "weapon",
+    "description": "Arma refinada de nível 18 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 44,
+      "agi": 4
+    },
+    "price": 840,
+    "element": "wind",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "pulse_blade",
+    "name": "Pulse Blade",
+    "type": "weapon",
+    "description": "Arma refinada de nível 19 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 46,
+      "agi": 4
+    },
+    "price": 880,
+    "element": "fire",
+    "rarity": "rare",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "aether_twinblades",
+    "name": "Aether Twinblades",
+    "type": "weapon",
+    "description": "Arma refinada de nível 20 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 48,
+      "agi": 5
+    },
+    "price": 920,
+    "element": "ice",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "zephyr_katana",
+    "name": "Zephyr Katana",
+    "type": "weapon",
+    "description": "Arma refinada de nível 21 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 50,
+      "agi": 5
+    },
+    "price": 960,
+    "element": "wind",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "pulse_halberd",
+    "name": "Pulse Halberd",
+    "type": "weapon",
+    "description": "Arma refinada de nível 22 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 52,
+      "agi": 5
+    },
+    "price": 1000,
+    "element": "fire",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "plasma_whip",
+    "name": "Plasma Whip",
+    "type": "weapon",
+    "description": "Arma refinada de nível 23 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 54,
+      "agi": 5
+    },
+    "price": 1040,
+    "element": "ice",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "galaxy_greatsword",
+    "name": "Galaxy Greatsword",
+    "type": "weapon",
+    "description": "Arma refinada de nível 24 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 56,
+      "agi": 5
+    },
+    "price": 1080,
+    "element": "wind",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "lumina_brand",
+    "name": "Lumina Brand",
+    "type": "weapon",
+    "description": "Arma refinada de nível 25 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 58,
+      "agi": 6
+    },
+    "price": 1120,
+    "element": "fire",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "echo_blade",
+    "name": "Echo Blade",
+    "type": "weapon",
+    "description": "Arma refinada de nível 26 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 60,
+      "agi": 6
+    },
+    "price": 1160,
+    "element": "ice",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "flare_saber",
+    "name": "Flare Saber",
+    "type": "weapon",
+    "description": "Arma refinada de nível 27 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 62,
+      "agi": 6
+    },
+    "price": 1200,
+    "element": "wind",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "typhoon_cutter",
+    "name": "Typhoon Cutter",
+    "type": "weapon",
+    "description": "Arma refinada de nível 28 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 64,
+      "agi": 6
+    },
+    "price": 1240,
+    "element": "fire",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "chrono_edge",
+    "name": "Chrono Edge",
+    "type": "weapon",
+    "description": "Arma refinada de nível 29 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 66,
+      "agi": 6
+    },
+    "price": 1280,
+    "element": "ice",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "quantum_khopesh",
+    "name": "Quantum Khopesh",
+    "type": "weapon",
+    "description": "Arma refinada de nível 30 forjada em Arclight.",
+    "stats_mod": {
+      "atk": 68,
+      "agi": 7
+    },
+    "price": 1320,
+    "element": "wind",
+    "rarity": "legendary",
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "npc_mystic_nova": {
+    "name": "Mystic Nova",
+    "lines": [
+      "Os cristais cantam quando o destino muda.",
+      "Traga-me a Keystone e abrirei o caminho oculto."
+    ]
+  }
+}

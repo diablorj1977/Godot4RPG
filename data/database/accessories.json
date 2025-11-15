@@ -1,0 +1,212 @@
+[
+  {
+    "id": "wind_charm",
+    "name": "Wind Charm",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 1.",
+    "stats_mod": {
+      "agi": 2,
+      "tech": 2
+    },
+    "price": 215,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "ember_ring",
+    "name": "Ember Ring",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 2.",
+    "stats_mod": {
+      "agi": 3,
+      "tech": 2
+    },
+    "price": 270,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "lunar_band",
+    "name": "Lunar Band",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 3.",
+    "stats_mod": {
+      "agi": 4,
+      "tech": 3
+    },
+    "price": 325,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "starlit_pendant",
+    "name": "Starlit Pendant",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 4.",
+    "stats_mod": {
+      "agi": 5,
+      "tech": 3
+    },
+    "price": 380,
+    "effects": [
+      "resist_sleep"
+    ]
+  },
+  {
+    "id": "guardian_anklet",
+    "name": "Guardian Anklet",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 5.",
+    "stats_mod": {
+      "agi": 1,
+      "tech": 3
+    },
+    "price": 435,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "echo_bracelet",
+    "name": "Echo Bracelet",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 6.",
+    "stats_mod": {
+      "agi": 2,
+      "tech": 4
+    },
+    "price": 490,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "aether_brooch",
+    "name": "Aether Brooch",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 7.",
+    "stats_mod": {
+      "agi": 3,
+      "tech": 4
+    },
+    "price": 545,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "nova_earring",
+    "name": "Nova Earring",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 8.",
+    "stats_mod": {
+      "agi": 4,
+      "tech": 4
+    },
+    "price": 600,
+    "effects": [
+      "resist_sleep"
+    ]
+  },
+  {
+    "id": "psionic_focus",
+    "name": "Psionic Focus",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 9.",
+    "stats_mod": {
+      "agi": 5,
+      "tech": 5
+    },
+    "price": 655,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "chrono_charm",
+    "name": "Chrono Charm",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 10.",
+    "stats_mod": {
+      "agi": 1,
+      "tech": 5
+    },
+    "price": 710,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "plasma_core",
+    "name": "Plasma Core",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 11.",
+    "stats_mod": {
+      "agi": 2,
+      "tech": 5
+    },
+    "price": 765,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "veil_of_terra",
+    "name": "Veil of Terra",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 12.",
+    "stats_mod": {
+      "agi": 3,
+      "tech": 6
+    },
+    "price": 820,
+    "effects": [
+      "resist_sleep"
+    ]
+  },
+  {
+    "id": "halo_circlet",
+    "name": "Halo Circlet",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 13.",
+    "stats_mod": {
+      "agi": 4,
+      "tech": 6
+    },
+    "price": 875,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "galactic_badge",
+    "name": "Galactic Badge",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 14.",
+    "stats_mod": {
+      "agi": 5,
+      "tech": 6
+    },
+    "price": 930,
+    "effects": [
+      "boost_crit"
+    ]
+  },
+  {
+    "id": "dawn_band",
+    "name": "Dawn Band",
+    "type": "accessory",
+    "description": "Acessório que emana energia nível 15.",
+    "stats_mod": {
+      "agi": 1,
+      "tech": 7
+    },
+    "price": 985,
+    "effects": [
+      "boost_crit"
+    ]
+  }
+]

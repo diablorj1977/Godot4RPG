@@ -1,0 +1,9 @@
+{
+  "npc_captain_duran": {
+    "name": "Captain Duran",
+    "lines": [
+      "A doca sete está fora dos limites para civis.",
+      "Traga uma autorização da guilda e conversaremos."
+    ]
+  }
+}

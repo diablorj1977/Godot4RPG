@@ -1,0 +1,406 @@
+[
+  {
+    "id": "overworld",
+    "type": "overworld",
+    "tileset": "gfx/tilesets/overworld_tileset.png",
+    "music": "audio/bgm/overworld_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.33,
+            "enemies": [
+              "sand_stalker"
+            ]
+          },
+          {
+            "chance": 0.33,
+            "enemies": [
+              "dune_raider"
+            ]
+          },
+          {
+            "chance": 0.33,
+            "enemies": [
+              "feral_lupus"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "town_01",
+        "position": [
+          10,
+          6
+        ]
+      },
+      {
+        "to": "town_02",
+        "position": [
+          20,
+          12
+        ]
+      },
+      {
+        "to": "village_01",
+        "position": [
+          30,
+          18
+        ]
+      },
+      {
+        "to": "dungeon_01",
+        "position": [
+          40,
+          20
+        ]
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "town_01",
+    "type": "town",
+    "tileset": "gfx/tilesets/town_tileset.png",
+    "music": "audio/bgm/town_theme.ogg",
+    "encounters": [],
+    "connections": [
+      {
+        "to": "overworld",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "to": "dungeon_02",
+        "position": [
+          15,
+          5
+        ],
+        "flags": {
+          "requires_quest": "main_02"
+        }
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "town_02",
+    "type": "town",
+    "tileset": "gfx/tilesets/town_tileset.png",
+    "music": "audio/bgm/town_theme.ogg",
+    "encounters": [],
+    "connections": [
+      {
+        "to": "overworld",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "to": "space_station_01",
+        "position": [
+          22,
+          8
+        ],
+        "flags": {
+          "requires_quest": "main_05"
+        }
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "village_01",
+    "type": "village",
+    "tileset": "gfx/tilesets/town_tileset.png",
+    "music": "audio/bgm/town_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.5,
+            "enemies": [
+              "feral_lupus"
+            ]
+          },
+          {
+            "chance": 0.5,
+            "enemies": [
+              "razor_wasp"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "overworld",
+        "position": [
+          3,
+          10
+        ]
+      },
+      {
+        "to": "village_02",
+        "position": [
+          18,
+          7
+        ]
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "village_02",
+    "type": "village",
+    "tileset": "gfx/tilesets/town_tileset.png",
+    "music": "audio/bgm/town_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 1.0,
+            "enemies": [
+              "storm_remnant"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "village_01",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "to": "overworld",
+        "position": [
+          24,
+          12
+        ]
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "dungeon_01",
+    "type": "dungeon",
+    "tileset": "gfx/tilesets/dungeon_tileset.png",
+    "music": "audio/bgm/dungeon_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.33,
+            "enemies": [
+              "iron_myr"
+            ]
+          },
+          {
+            "chance": 0.33,
+            "enemies": [
+              "plasma_ooze"
+            ]
+          },
+          {
+            "chance": 0.33,
+            "enemies": [
+              "techno_mantis"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "overworld",
+        "position": [
+          2,
+          4
+        ]
+      },
+      {
+        "to": "dungeon_02",
+        "position": [
+          28,
+          20
+        ]
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "dungeon_02",
+    "type": "dungeon",
+    "tileset": "gfx/tilesets/dungeon_tileset.png",
+    "music": "audio/bgm/dungeon_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.5,
+            "enemies": [
+              "void_screecher"
+            ]
+          },
+          {
+            "chance": 0.5,
+            "enemies": [
+              "vortex_shade"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "dungeon_01",
+        "position": [
+          4,
+          4
+        ]
+      },
+      {
+        "to": "dungeon_03",
+        "position": [
+          30,
+          24
+        ],
+        "flags": {
+          "requires_quest": "main_06"
+        }
+      }
+    ],
+    "flags": {
+      "requires_quest": "main_01"
+    }
+  },
+  {
+    "id": "dungeon_03",
+    "type": "dungeon",
+    "tileset": "gfx/tilesets/dungeon_tileset.png",
+    "music": "audio/bgm/dungeon_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.5,
+            "enemies": [
+              "astral_knight"
+            ]
+          },
+          {
+            "chance": 0.5,
+            "enemies": [
+              "golem_prime"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "dungeon_02",
+        "position": [
+          6,
+          6
+        ]
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "space_station_01",
+    "type": "space_station",
+    "tileset": "gfx/tilesets/tech_base_tileset.png",
+    "music": "audio/bgm/battle_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.5,
+            "enemies": [
+              "nebulon"
+            ]
+          },
+          {
+            "chance": 0.5,
+            "enemies": [
+              "quantum_archer"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "town_02",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "to": "spaceship_01",
+        "position": [
+          26,
+          6
+        ],
+        "flags": {
+          "requires_quest": "main_08"
+        }
+      }
+    ],
+    "flags": {}
+  },
+  {
+    "id": "spaceship_01",
+    "type": "spaceship",
+    "tileset": "gfx/tilesets/tech_base_tileset.png",
+    "music": "audio/bgm/boss_theme.ogg",
+    "encounters": [
+      {
+        "region": "default",
+        "groups": [
+          {
+            "chance": 0.5,
+            "enemies": [
+              "flare_colossus"
+            ]
+          },
+          {
+            "chance": 0.5,
+            "enemies": [
+              "crystal_sentinel"
+            ]
+          }
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "to": "space_station_01",
+        "position": [
+          4,
+          8
+        ]
+      }
+    ],
+    "flags": {}
+  }
+]
