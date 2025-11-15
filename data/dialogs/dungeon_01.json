@@ -1,0 +1,9 @@
+{
+  "npc_050": {
+    "name": "Pesquisador",
+    "lines": [
+      "Estas ruínas ainda respiram energia.",
+      "Não desperdice sua luz."
+    ]
+  }
+}

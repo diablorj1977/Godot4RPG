@@ -1,0 +1,37 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/battle/battle_scene.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/battle/battle_ui.tscn" id="2"]
+[ext_resource type="Texture2D" path="res://assets/battlebacks/desert_parallax.png" id="3"]
+[ext_resource type="Texture2D" path="res://assets/battlebacks/tech_parallax.png" id="4"]
+[ext_resource type="Texture2D" path="res://assets/battlebacks/cave_parallax.png" id="5"]
+
+[node name="BattleScene" type="Node2D"]
+script = ExtResource("1")
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="Layer1" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(0.2, 0.2)
+
+[node name="Sprite1" type="Sprite2D" parent="ParallaxBackground/Layer1"]
+texture = ExtResource("3")
+
+[node name="Layer2" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(0.5, 0.5)
+
+[node name="Sprite2" type="Sprite2D" parent="ParallaxBackground/Layer2"]
+texture = ExtResource("4")
+
+[node name="Layer3" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(0.8, 0.8)
+
+[node name="Sprite3" type="Sprite2D" parent="ParallaxBackground/Layer3"]
+texture = ExtResource("5")
+
+[node name="Enemies" type="Node2D" parent="."]
+
+[node name="Party" type="VBoxContainer" parent="."]
+position = Vector2(20, 20)
+
+[node name="BattleUI" parent="." instance=ExtResource("2")]

@@ -1,0 +1,9 @@
+{
+  "npc_010": {
+    "name": "Mercador",
+    "lines": [
+      "Temos as melhores lâminas.",
+      "Créditos aceitos."
+    ]
+  }
+}
