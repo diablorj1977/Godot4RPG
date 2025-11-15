@@ -1,0 +1,16 @@
+{
+  "npc_001": {
+    "name": "Explorador",
+    "lines": [
+      "As dunas mudam todos os dias.",
+      "Use o vento a seu favor."
+    ]
+  },
+  "npc_002": {
+    "name": "Guia",
+    "lines": [
+      "A capital fica a leste.",
+      "Cuide dos seus recursos."
+    ]
+  }
+}

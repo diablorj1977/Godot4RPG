@@ -1,0 +1,47 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section]
+;   param=value
+;
+config_version=5
+
+[application]
+config/name="Starfall Legacy"
+config/version="0.1"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.0", "Forward+", "Mobile")
+
+[autoload]
+AudioManager="*res://scripts/systems/audio_manager.gd"
+EnemyDatabase="*res://scripts/systems/enemy_database.gd"
+GameState="*res://scripts/systems/game_state.gd"
+InventorySystem="*res://scripts/systems/inventory_system.gd"
+ItemDatabase="*res://scripts/systems/item_database.gd"
+MapTransition="*res://scripts/systems/map_transition.gd"
+PartyManager="*res://scripts/systems/party_manager.gd"
+QuestSystem="*res://scripts/systems/quest_system.gd"
+SaveSystem="*res://scripts/systems/save_system.gd"
+
+[display]
+window/size/width=640
+window/size/height=448
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+window/stretch/scale=Vector2(1.5, 1.5)
+
+[input]
+move_up={"deadzone":0.5,"events":[{"type":"key","keycode":87},{"type":"key","keycode":16777232}]}
+move_down={"deadzone":0.5,"events":[{"type":"key","keycode":83},{"type":"key","keycode":16777234}]}
+move_left={"deadzone":0.5,"events":[{"type":"key","keycode":65},{"type":"key","keycode":16777231}]}
+move_right={"deadzone":0.5,"events":[{"type":"key","keycode":68},{"type":"key","keycode":16777233}]}
+confirm={"deadzone":0.5,"events":[{"type":"key","keycode":16777221},{"type":"key","keycode":90},{"type":"key","keycode":32}]}
+cancel={"deadzone":0.5,"events":[{"type":"key","keycode":16777217},{"type":"key","keycode":88}]}
+menu={"deadzone":0.5,"events":[{"type":"key","keycode":16777217},{"type":"key","keycode":16777237}]}
+interact={"deadzone":0.5,"events":[{"type":"key","keycode":90},{"type":"key","keycode":16777221}]}
+
+[rendering]
+quality/2d/use_pixel_snap=true
+textures/default_filters/per_texture=true
