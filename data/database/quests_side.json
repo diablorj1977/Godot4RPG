@@ -1,0 +1,138 @@
+[
+  {
+    "id": "side_01",
+    "name": "Tarefa Paralela 1",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 120,
+      "credits": 180,
+      "items": [
+        "ancient_tablet"
+      ]
+    }
+  },
+  {
+    "id": "side_02",
+    "name": "Tarefa Paralela 2",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 240,
+      "credits": 360,
+      "items": [
+        "stellar_compass"
+      ]
+    }
+  },
+  {
+    "id": "side_03",
+    "name": "Tarefa Paralela 3",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 360,
+      "credits": 540,
+      "items": [
+        "village_manifest"
+      ]
+    }
+  },
+  {
+    "id": "side_04",
+    "name": "Tarefa Paralela 4",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 480,
+      "credits": 720,
+      "items": [
+        "dungeon_keystone"
+      ]
+    }
+  },
+  {
+    "id": "side_05",
+    "name": "Tarefa Paralela 5",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 600,
+      "credits": 900,
+      "items": [
+        "lost_data_cube"
+      ]
+    }
+  },
+  {
+    "id": "side_06",
+    "name": "Tarefa Paralela 6",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 720,
+      "credits": 1080,
+      "items": [
+        "prototype_drive"
+      ]
+    }
+  },
+  {
+    "id": "side_07",
+    "name": "Tarefa Paralela 7",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 840,
+      "credits": 1260,
+      "items": [
+        "meteorite_sample"
+      ]
+    }
+  },
+  {
+    "id": "side_08",
+    "name": "Tarefa Paralela 8",
+    "summary": "Ajude habitantes de Aetherion com desafios únicos.",
+    "objectives": [
+      "Converse com o solicitante.",
+      "Colete o item solicitado.",
+      "Retorne para receber a recompensa."
+    ],
+    "rewards": {
+      "xp": 960,
+      "credits": 1440,
+      "items": [
+        "healing_herb_bundle"
+      ]
+    }
+  }
+]

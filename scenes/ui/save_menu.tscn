@@ -1,0 +1,33 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/save_menu.gd" id="1"]
+
+[node name="SaveMenu" type="Control"]
+visible = false
+script = ExtResource("1")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchor_left = 0.35
+anchor_top = 0.2
+anchor_right = 0.65
+anchor_bottom = 0.8
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel"]
+layout_mode = 1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+
+[node name="Slot1" type="Button" parent="Panel/VBoxContainer"]
+text = "Carregar Slot 1"
+
+[node name="Slot2" type="Button" parent="Panel/VBoxContainer"]
+text = "Carregar Slot 2"
+
+[node name="Slot3" type="Button" parent="Panel/VBoxContainer"]
+text = "Carregar Slot 3"
+
+[node name="Close" type="Button" parent="Panel/VBoxContainer"]
+text = "Fechar"

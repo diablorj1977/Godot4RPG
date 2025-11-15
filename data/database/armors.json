@@ -1,0 +1,402 @@
+[
+  {
+    "id": "sentinel_plate",
+    "name": "Sentinel Plate",
+    "type": "armor",
+    "description": "Proteção avançada de nível 1 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 13,
+      "hp": 19
+    },
+    "price": 185,
+    "element_resist": {
+      "fire": 0.05,
+      "ice": 0.1
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "aurora_mail",
+    "name": "Aurora Mail",
+    "type": "armor",
+    "description": "Proteção avançada de nível 2 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 16,
+      "hp": 23
+    },
+    "price": 230,
+    "element_resist": {
+      "fire": 0.1,
+      "ice": 0.15
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "zephyr_jacket",
+    "name": "Zephyr Jacket",
+    "type": "armor",
+    "description": "Proteção avançada de nível 3 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 19,
+      "hp": 27
+    },
+    "price": 275,
+    "element_resist": {
+      "fire": 0.15,
+      "ice": 0.0
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "stasis_armor",
+    "name": "Stasis Armor",
+    "type": "armor",
+    "description": "Proteção avançada de nível 4 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 22,
+      "hp": 31
+    },
+    "price": 320,
+    "element_resist": {
+      "fire": 0.0,
+      "ice": 0.05
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "lunar_brigandine",
+    "name": "Lunar Brigandine",
+    "type": "armor",
+    "description": "Proteção avançada de nível 5 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 25,
+      "hp": 35
+    },
+    "price": 365,
+    "element_resist": {
+      "fire": 0.05,
+      "ice": 0.1
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "void_carapace",
+    "name": "Void Carapace",
+    "type": "armor",
+    "description": "Proteção avançada de nível 6 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 28,
+      "hp": 39
+    },
+    "price": 410,
+    "element_resist": {
+      "fire": 0.1,
+      "ice": 0.15
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "crystal_hauberk",
+    "name": "Crystal Hauberk",
+    "type": "armor",
+    "description": "Proteção avançada de nível 7 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 31,
+      "hp": 43
+    },
+    "price": 455,
+    "element_resist": {
+      "fire": 0.15,
+      "ice": 0.0
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "flare_guard",
+    "name": "Flare Guard",
+    "type": "armor",
+    "description": "Proteção avançada de nível 8 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 34,
+      "hp": 47
+    },
+    "price": 500,
+    "element_resist": {
+      "fire": 0.0,
+      "ice": 0.05
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "shadow_cloak",
+    "name": "Shadow Cloak",
+    "type": "armor",
+    "description": "Proteção avançada de nível 9 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 37,
+      "hp": 51
+    },
+    "price": 545,
+    "element_resist": {
+      "fire": 0.05,
+      "ice": 0.1
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "prismatic_coat",
+    "name": "Prismatic Coat",
+    "type": "armor",
+    "description": "Proteção avançada de nível 10 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 40,
+      "hp": 55
+    },
+    "price": 590,
+    "element_resist": {
+      "fire": 0.1,
+      "ice": 0.15
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "nova_plate",
+    "name": "Nova Plate",
+    "type": "armor",
+    "description": "Proteção avançada de nível 11 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 43,
+      "hp": 59
+    },
+    "price": 635,
+    "element_resist": {
+      "fire": 0.15,
+      "ice": 0.0
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "storm_jacket",
+    "name": "Storm Jacket",
+    "type": "armor",
+    "description": "Proteção avançada de nível 12 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 46,
+      "hp": 63
+    },
+    "price": 680,
+    "element_resist": {
+      "fire": 0.0,
+      "ice": 0.05
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "earthwarden_mail",
+    "name": "Earthwarden Mail",
+    "type": "armor",
+    "description": "Proteção avançada de nível 13 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 49,
+      "hp": 67
+    },
+    "price": 725,
+    "element_resist": {
+      "fire": 0.05,
+      "ice": 0.1
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "cyber_frame",
+    "name": "Cyber Frame",
+    "type": "armor",
+    "description": "Proteção avançada de nível 14 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 52,
+      "hp": 71
+    },
+    "price": 770,
+    "element_resist": {
+      "fire": 0.1,
+      "ice": 0.15
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "astral_mantle",
+    "name": "Astral Mantle",
+    "type": "armor",
+    "description": "Proteção avançada de nível 15 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 55,
+      "hp": 75
+    },
+    "price": 815,
+    "element_resist": {
+      "fire": 0.15,
+      "ice": 0.0
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "radiant_vest",
+    "name": "Radiant Vest",
+    "type": "armor",
+    "description": "Proteção avançada de nível 16 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 58,
+      "hp": 79
+    },
+    "price": 860,
+    "element_resist": {
+      "fire": 0.0,
+      "ice": 0.05
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "titan_barrier",
+    "name": "Titan Barrier",
+    "type": "armor",
+    "description": "Proteção avançada de nível 17 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 61,
+      "hp": 83
+    },
+    "price": 905,
+    "element_resist": {
+      "fire": 0.05,
+      "ice": 0.1
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "nebula_armor",
+    "name": "Nebula Armor",
+    "type": "armor",
+    "description": "Proteção avançada de nível 18 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 64,
+      "hp": 87
+    },
+    "price": 950,
+    "element_resist": {
+      "fire": 0.1,
+      "ice": 0.15
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "phoenix_plate",
+    "name": "Phoenix Plate",
+    "type": "armor",
+    "description": "Proteção avançada de nível 19 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 67,
+      "hp": 91
+    },
+    "price": 995,
+    "element_resist": {
+      "fire": 0.15,
+      "ice": 0.0
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  },
+  {
+    "id": "chronicle_robe",
+    "name": "Chronicle Robe",
+    "type": "armor",
+    "description": "Proteção avançada de nível 20 dos guardiões celestes.",
+    "stats_mod": {
+      "def": 70,
+      "hp": 95
+    },
+    "price": 1040,
+    "element_resist": {
+      "fire": 0.0,
+      "ice": 0.05
+    },
+    "allowed_users": [
+      "kael",
+      "mira",
+      "rex"
+    ]
+  }
+]

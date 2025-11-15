@@ -1,0 +1,172 @@
+[
+  {
+    "id": "main_01",
+    "name": "Capítulo 1: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 200,
+      "credits": 500,
+      "items": [
+        "tri_core_relay"
+      ]
+    }
+  },
+  {
+    "id": "main_02",
+    "name": "Capítulo 2: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 400,
+      "credits": 1000,
+      "items": [
+        "ancient_tablet"
+      ]
+    }
+  },
+  {
+    "id": "main_03",
+    "name": "Capítulo 3: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 600,
+      "credits": 1500,
+      "items": [
+        "stellar_compass"
+      ]
+    }
+  },
+  {
+    "id": "main_04",
+    "name": "Capítulo 4: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 800,
+      "credits": 2000,
+      "items": [
+        "village_manifest"
+      ]
+    }
+  },
+  {
+    "id": "main_05",
+    "name": "Capítulo 5: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 1000,
+      "credits": 2500,
+      "items": [
+        "dungeon_keystone"
+      ]
+    }
+  },
+  {
+    "id": "main_06",
+    "name": "Capítulo 6: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 1200,
+      "credits": 3000,
+      "items": [
+        "lost_data_cube"
+      ]
+    }
+  },
+  {
+    "id": "main_07",
+    "name": "Capítulo 7: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 1400,
+      "credits": 3500,
+      "items": [
+        "prototype_drive"
+      ]
+    }
+  },
+  {
+    "id": "main_08",
+    "name": "Capítulo 8: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 1600,
+      "credits": 4000,
+      "items": [
+        "meteorite_sample"
+      ]
+    }
+  },
+  {
+    "id": "main_09",
+    "name": "Capítulo 9: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 1800,
+      "credits": 4500,
+      "items": [
+        "healing_herb_bundle"
+      ]
+    }
+  },
+  {
+    "id": "main_10",
+    "name": "Capítulo 10: Eco Astral",
+    "summary": "Avance na campanha principal recuperando artefatos perdidos.",
+    "objectives": [
+      "Investigue o local indicado.",
+      "Derrote o guardião da área.",
+      "Recupere o artefato astral."
+    ],
+    "rewards": {
+      "xp": 2000,
+      "credits": 5000,
+      "items": [
+        "wind_crystal"
+      ]
+    }
+  }
+]

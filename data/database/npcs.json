@@ -1,0 +1,137 @@
+[
+  {
+    "id": "town_elder",
+    "name": "Elder Mareth",
+    "map_id": "town_01",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": true,
+    "dialog": "npc_town_elder"
+  },
+  {
+    "id": "market_vendor",
+    "name": "Sera",
+    "map_id": "town_01",
+    "routine": "wander",
+    "shop_id": "shop_town_general",
+    "quest_giver": false,
+    "dialog": "npc_market_vendor"
+  },
+  {
+    "id": "guild_agent",
+    "name": "Lio",
+    "map_id": "town_01",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": true,
+    "dialog": "npc_guild_agent"
+  },
+  {
+    "id": "mechanic_rho",
+    "name": "Mechanic Rho",
+    "map_id": "town_02",
+    "routine": "wander",
+    "shop_id": "shop_town_tech",
+    "quest_giver": false,
+    "dialog": "npc_mechanic_rho"
+  },
+  {
+    "id": "priestess_lyra",
+    "name": "Priestess Lyra",
+    "map_id": "town_02",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_priestess_lyra"
+  },
+  {
+    "id": "villager_arin",
+    "name": "Arin",
+    "map_id": "village_01",
+    "routine": "wander",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_villager_arin"
+  },
+  {
+    "id": "villager_cora",
+    "name": "Cora",
+    "map_id": "village_01",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_villager_cora"
+  },
+  {
+    "id": "herbalist_jae",
+    "name": "Herbalist Jae",
+    "map_id": "village_02",
+    "routine": "wander",
+    "shop_id": "shop_village_apothecary",
+    "quest_giver": false,
+    "dialog": "npc_herbalist_jae"
+  },
+  {
+    "id": "scout_vix",
+    "name": "Scout Vix",
+    "map_id": "overworld",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_scout_vix"
+  },
+  {
+    "id": "captain_duran",
+    "name": "Captain Duran",
+    "map_id": "space_station_01",
+    "routine": "idle",
+    "shop_id": "shop_station_elite",
+    "quest_giver": false,
+    "dialog": "npc_captain_duran"
+  },
+  {
+    "id": "engineer_sia",
+    "name": "Engineer Sia",
+    "map_id": "spaceship_01",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_engineer_sia"
+  },
+  {
+    "id": "mystic_nova",
+    "name": "Mystic Nova",
+    "map_id": "dungeon_02",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": true,
+    "dialog": "npc_mystic_nova"
+  },
+  {
+    "id": "miner_gale",
+    "name": "Miner Gale",
+    "map_id": "dungeon_01",
+    "routine": "wander",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_miner_gale"
+  },
+  {
+    "id": "archivist_tal",
+    "name": "Archivist Tal",
+    "map_id": "dungeon_03",
+    "routine": "idle",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_archivist_tal"
+  },
+  {
+    "id": "pilot_han",
+    "name": "Pilot Han",
+    "map_id": "overworld",
+    "routine": "wander",
+    "shop_id": "",
+    "quest_giver": false,
+    "dialog": "npc_pilot_han"
+  }
+]

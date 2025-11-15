@@ -1,0 +1,354 @@
+[
+  {
+    "id": "monomate",
+    "name": "Monomate",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 1.",
+    "stats_mod": {
+      "hp": 50,
+      "mp": 0
+    },
+    "price": 85,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "dimate",
+    "name": "Dimate",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 2.",
+    "stats_mod": {
+      "hp": 150,
+      "mp": 0
+    },
+    "price": 120,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "trimate",
+    "name": "Trimate",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 3.",
+    "stats_mod": {
+      "hp": 350,
+      "mp": 0
+    },
+    "price": 155,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "sol_atomizer",
+    "name": "Sol Atomizer",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 4.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 40
+    },
+    "price": 190,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "moon_atomizer",
+    "name": "Moon Atomizer",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 5.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 120
+    },
+    "price": 225,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "star_atomizer",
+    "name": "Star Atomizer",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 6.",
+    "stats_mod": {
+      "hp": 200,
+      "mp": 80
+    },
+    "price": 260,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "aegis_kit",
+    "name": "Aegis Kit",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 7.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 295,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "swift_tonic",
+    "name": "Swift Tonic",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 8.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 330,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "focus_ampule",
+    "name": "Focus Ampule",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 9.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 30
+    },
+    "price": 365,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "ether_capsule",
+    "name": "Ether Capsule",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 10.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 60
+    },
+    "price": 400,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "stardust_vial",
+    "name": "Stardust Vial",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 11.",
+    "stats_mod": {
+      "hp": 120,
+      "mp": 30
+    },
+    "price": 435,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "vital_serum",
+    "name": "Vital Serum",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 12.",
+    "stats_mod": {
+      "hp": 220,
+      "mp": 0
+    },
+    "price": 470,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "nano_pack",
+    "name": "Nano Pack",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 13.",
+    "stats_mod": {
+      "hp": 280,
+      "mp": 60
+    },
+    "price": 505,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "repair_kit",
+    "name": "Repair Kit",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 14.",
+    "stats_mod": {
+      "hp": 180,
+      "mp": 0
+    },
+    "price": 540,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "flare_charge",
+    "name": "Flare Charge",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 15.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 575,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "frost_charge",
+    "name": "Frost Charge",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 16.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 610,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "storm_charge",
+    "name": "Storm Charge",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 17.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 645,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "resurrect_module",
+    "name": "Resurrect Module",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 18.",
+    "stats_mod": {
+      "hp": 999,
+      "mp": 0
+    },
+    "price": 680,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": [
+      "revive"
+    ]
+  },
+  {
+    "id": "panacea_patch",
+    "name": "Panacea Patch",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 19.",
+    "stats_mod": {
+      "hp": 80,
+      "mp": 20
+    },
+    "price": 715,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "guardian_tonic",
+    "name": "Guardian Tonic",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 20.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 750,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "lucid_draught",
+    "name": "Lucid Draught",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 21.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 785,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "safeguard_field",
+    "name": "Safeguard Field",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 22.",
+    "stats_mod": {
+      "hp": 0,
+      "mp": 0
+    },
+    "price": 820,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "hyper_gel",
+    "name": "Hyper Gel",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 23.",
+    "stats_mod": {
+      "hp": 160,
+      "mp": 80
+    },
+    "price": 855,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "astro_cookie",
+    "name": "Astro Cookie",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 24.",
+    "stats_mod": {
+      "hp": 60,
+      "mp": 40
+    },
+    "price": 890,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  },
+  {
+    "id": "zenith_elixir",
+    "name": "Zenith Elixir",
+    "type": "consumable",
+    "description": "Consumível tecnológico grau 25.",
+    "stats_mod": {
+      "hp": 400,
+      "mp": 150
+    },
+    "price": 925,
+    "usable_in_battle": true,
+    "usable_in_field": true,
+    "effects": []
+  }
+]

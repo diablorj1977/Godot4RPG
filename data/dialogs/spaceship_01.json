@@ -1,0 +1,9 @@
+{
+  "npc_engineer_sia": {
+    "name": "Engineer Sia",
+    "lines": [
+      "O reator canta em frequências que só androides entendem.",
+      "Posso turbinar sua armadura com cristais sintéticos."
+    ]
+  }
+}

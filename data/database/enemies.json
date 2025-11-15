@@ -1,0 +1,626 @@
+[
+  {
+    "id": "sand_stalker",
+    "name": "Sand Stalker",
+    "level": 4,
+    "hp": 160,
+    "mp": 40,
+    "atk": 22,
+    "def": 15,
+    "agi": 10,
+    "tech": 13,
+    "xp_reward": 25,
+    "credit_reward": 45,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "earth",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "solar_wisp",
+    "name": "Solar Wisp",
+    "level": 5,
+    "hp": 200,
+    "mp": 50,
+    "atk": 26,
+    "def": 18,
+    "agi": 12,
+    "tech": 16,
+    "xp_reward": 30,
+    "credit_reward": 55,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "fire",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "rime_serpent",
+    "name": "Rime Serpent",
+    "level": 6,
+    "hp": 240,
+    "mp": 60,
+    "atk": 30,
+    "def": 21,
+    "agi": 14,
+    "tech": 19,
+    "xp_reward": 35,
+    "credit_reward": 65,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "ice",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "iron_myr",
+    "name": "Iron Myr",
+    "level": 7,
+    "hp": 280,
+    "mp": 70,
+    "atk": 34,
+    "def": 24,
+    "agi": 16,
+    "tech": 22,
+    "xp_reward": 40,
+    "credit_reward": 75,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "metal",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "dune_raider",
+    "name": "Dune Raider",
+    "level": 8,
+    "hp": 320,
+    "mp": 80,
+    "atk": 38,
+    "def": 27,
+    "agi": 18,
+    "tech": 25,
+    "xp_reward": 45,
+    "credit_reward": 85,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "earth",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "storm_remnant",
+    "name": "Storm Remnant",
+    "level": 9,
+    "hp": 360,
+    "mp": 90,
+    "atk": 42,
+    "def": 30,
+    "agi": 20,
+    "tech": 28,
+    "xp_reward": 50,
+    "credit_reward": 95,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "wind",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "feral_lupus",
+    "name": "Feral Lupus",
+    "level": 10,
+    "hp": 400,
+    "mp": 100,
+    "atk": 46,
+    "def": 33,
+    "agi": 22,
+    "tech": 31,
+    "xp_reward": 55,
+    "credit_reward": 105,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "dark",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "chrono_pyr",
+    "name": "Chrono Pyr",
+    "level": 11,
+    "hp": 440,
+    "mp": 110,
+    "atk": 50,
+    "def": 36,
+    "agi": 24,
+    "tech": 34,
+    "xp_reward": 60,
+    "credit_reward": 115,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "time",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "void_screecher",
+    "name": "Void Screecher",
+    "level": 12,
+    "hp": 480,
+    "mp": 120,
+    "atk": 54,
+    "def": 39,
+    "agi": 26,
+    "tech": 37,
+    "xp_reward": 65,
+    "credit_reward": 125,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "dark",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "aether_spore",
+    "name": "Aether Spore",
+    "level": 13,
+    "hp": 520,
+    "mp": 130,
+    "atk": 58,
+    "def": 42,
+    "agi": 28,
+    "tech": 40,
+    "xp_reward": 70,
+    "credit_reward": 135,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "bio",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "glacier_titan",
+    "name": "Glacier Titan",
+    "level": 14,
+    "hp": 560,
+    "mp": 140,
+    "atk": 62,
+    "def": 45,
+    "agi": 30,
+    "tech": 43,
+    "xp_reward": 75,
+    "credit_reward": 145,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "ice",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "ember_drake",
+    "name": "Ember Drake",
+    "level": 15,
+    "hp": 600,
+    "mp": 150,
+    "atk": 66,
+    "def": 48,
+    "agi": 32,
+    "tech": 46,
+    "xp_reward": 80,
+    "credit_reward": 155,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "fire",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "luminous_wyrm",
+    "name": "Luminous Wyrm",
+    "level": 16,
+    "hp": 640,
+    "mp": 160,
+    "atk": 70,
+    "def": 51,
+    "agi": 34,
+    "tech": 49,
+    "xp_reward": 85,
+    "credit_reward": 165,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "light",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "astral_knight",
+    "name": "Astral Knight",
+    "level": 17,
+    "hp": 680,
+    "mp": 170,
+    "atk": 74,
+    "def": 54,
+    "agi": 36,
+    "tech": 52,
+    "xp_reward": 90,
+    "credit_reward": 175,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "light",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "vortex_shade",
+    "name": "Vortex Shade",
+    "level": 18,
+    "hp": 720,
+    "mp": 180,
+    "atk": 78,
+    "def": 57,
+    "agi": 38,
+    "tech": 55,
+    "xp_reward": 95,
+    "credit_reward": 185,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "wind",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "plasma_ooze",
+    "name": "Plasma Ooze",
+    "level": 19,
+    "hp": 760,
+    "mp": 190,
+    "atk": 82,
+    "def": 60,
+    "agi": 40,
+    "tech": 58,
+    "xp_reward": 100,
+    "credit_reward": 195,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "electric",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "techno_mantis",
+    "name": "Techno Mantis",
+    "level": 20,
+    "hp": 800,
+    "mp": 200,
+    "atk": 86,
+    "def": 63,
+    "agi": 42,
+    "tech": 61,
+    "xp_reward": 105,
+    "credit_reward": 205,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "metal",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "nebulon",
+    "name": "Nebulon",
+    "level": 21,
+    "hp": 840,
+    "mp": 210,
+    "atk": 90,
+    "def": 66,
+    "agi": 44,
+    "tech": 64,
+    "xp_reward": 110,
+    "credit_reward": 215,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "cosmic",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "razor_wasp",
+    "name": "Razor Wasp",
+    "level": 22,
+    "hp": 880,
+    "mp": 220,
+    "atk": 94,
+    "def": 69,
+    "agi": 46,
+    "tech": 67,
+    "xp_reward": 115,
+    "credit_reward": 225,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "wind",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "sable_revenant",
+    "name": "Sable Revenant",
+    "level": 23,
+    "hp": 920,
+    "mp": 230,
+    "atk": 98,
+    "def": 72,
+    "agi": 48,
+    "tech": 70,
+    "xp_reward": 120,
+    "credit_reward": 235,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "dark",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "crystal_sentinel",
+    "name": "Crystal Sentinel",
+    "level": 24,
+    "hp": 960,
+    "mp": 240,
+    "atk": 102,
+    "def": 75,
+    "agi": 50,
+    "tech": 73,
+    "xp_reward": 125,
+    "credit_reward": 245,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "ice",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "flare_colossus",
+    "name": "Flare Colossus",
+    "level": 25,
+    "hp": 1000,
+    "mp": 250,
+    "atk": 106,
+    "def": 78,
+    "agi": 52,
+    "tech": 76,
+    "xp_reward": 130,
+    "credit_reward": 255,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "fire",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "quantum_archer",
+    "name": "Quantum Archer",
+    "level": 26,
+    "hp": 1040,
+    "mp": 260,
+    "atk": 110,
+    "def": 81,
+    "agi": 54,
+    "tech": 79,
+    "xp_reward": 135,
+    "credit_reward": 265,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "light",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  },
+  {
+    "id": "golem_prime",
+    "name": "Golem Prime",
+    "level": 27,
+    "hp": 1080,
+    "mp": 270,
+    "atk": 114,
+    "def": 84,
+    "agi": 56,
+    "tech": 82,
+    "xp_reward": 140,
+    "credit_reward": 275,
+    "loot": {
+      "drop_rate": 0.25,
+      "items": [
+        "monomate",
+        "dimate",
+        "data_chip"
+      ]
+    },
+    "element": "earth",
+    "skills": [
+      "slash",
+      "blast"
+    ]
+  }
+]

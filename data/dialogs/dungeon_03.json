@@ -1,0 +1,9 @@
+{
+  "npc_archivist_tal": {
+    "name": "Archivist Tal",
+    "lines": [
+      "Cada mural conta uma parte da queda dos Antigos.",
+      "Não desperdice a chance de aprender com o passado."
+    ]
+  }
+}
